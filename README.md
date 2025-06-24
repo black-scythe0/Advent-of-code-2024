@@ -1,15 +1,15 @@
-# Advent of code 2024
+# advent of code 2024
 
-- this repo is regarding solving puzzles which appeared in **2024** from **1 to 25 DEC**.
+- this repo is regarding solving puzzles which appeared in **2024** from **1 to 25 dec**.
 
-# puzzles
+## puzzles
 - [puzzle-1](puzzele-1)
 
-# Sources
+## sources
 
-- [Advent of code.](https://adventofcode.com/)
+- [advent of code.](https://adventofcode.com/)
 
-# License
+## license
 
-This repo is under **MIT-License**
+this repo is under **mit-license**
 
