@@ -13,7 +13,7 @@ chmod +x ~/exes/${exe_name} &&
 
 
 echo " "
-echo "compilation complete exit with $(echo $?)"
+echo "compilation completed with exit code $(echo $?)"
 
 
 
